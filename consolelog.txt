@@ -1,0 +1,158 @@
+getRowstrcount 2
+getRowcount 2
+Browser launched
+Browser launched succesfully
+2https://www.bannerbuzz.co.nz/
+mobFID is 27 ms
+mobLcp is 4.3 s
+mobcls is 0.89
+DesktopFID2 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[3]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[2]/span/div/div[3]/div/div[2]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[3]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[2]/span/div/div[3]/div/div[2]/div[2]/div[1]/span/span}
+DesktopFID3 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[3]/span/div/div[3]/div/div[2]/div[2]/div[1]/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[3]/span/div/div[3]/div/div[2]/div[2]/div[1]/span}
+DesktopFID4 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[3]/span/div/div[3]/div/div[2]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[3]/span/div/div[3]/div/div[2]/div[2]/div[1]/span/span}
+DesktopFID5 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[2]/span/div/div[3]/div/div[2]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[2]/span/div/div[3]/div/div[2]/div[2]/div[1]/span/span}
+DesktopFID6 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div[2]/div[2]/div/div[2]/span/div/div[3]/div/div[2]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div[2]/div[2]/div/div[2]/span/div/div[3]/div/div[2]/div[2]/div[1]/span/span}
+DesktopFID7 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[2]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div[2]/div[2]/div/div[3]/span/div/div[3]/div/div[2]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[2]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div[2]/div[2]/div/div[3]/span/div/div[3]/div/div[2]/div[2]/div[1]/span/span}
+ DesktopFID1 6 ms
+ DesktopLCP2 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[3]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[2]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[3]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[2]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span}
+DesktopLCP3 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[3]/span/div/div[3]/div/div[3]/div[2]/div[1]/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[3]/span/div/div[3]/div/div[3]/div[2]/div[1]/span}
+ DesktopLCP4 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[3]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[3]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span}
+ DesktopLCP5 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[2]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[2]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span}
+ DesktopLCP6 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div[2]/div[2]/div/div[2]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div[2]/div[2]/div/div[2]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span}
+DesktopLCP7 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[2]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div[2]/div[2]/div/div[3]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[2]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div[2]/div[2]/div/div[3]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span}
+ DesktopLCP1 2.9 s
+DesktopCLS3 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[3]/span/div/div[3]/div/div[3]/div[2]/div[1]/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[3]/span/div/div[3]/div/div[3]/div[2]/div[1]/span}
+DesktopCLS4 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[3]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[3]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span}
+DesktopCLS5 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[2]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div/div[2]/div/div[2]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span}
+DesktopCLS6 Exception is org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div[2]/div[2]/div/div[2]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'RAJESHRAY-LAPTO', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\rajesh.r\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15223e4fffad06a05941713b1a953695
+*** Element info: {Using=xpath, value=//*[@id='yDmH0d']/c-wiz[3]/div[2]/div/div[2]/div[4]/div[3]/span/c-wiz/div[1]/div[1]/div[2]/div[2]/div/div[2]/span/div/div[3]/div/div[3]/div[2]/div[1]/span/span}
+DesktopCLS7 actvalue is 0.35
+DesktopCLS1 6 ms
+TIme taken in secs: 2 216
+speed test Terminated
